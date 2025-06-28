@@ -1,7 +1,9 @@
 Ziel des Skripts
 Das Skript ersetzt die Sperrbildschirmbilder (Lockscreen-Bilder) des aktuell angemeldeten Benutzers durch ein eigenes Bild (img100.jpg) und deaktiviert die Windows-Spotlight-Funktion (die wechselnde Bilder und Vorschläge auf dem Sperrbildschirm anzeigt).
+
 Zusätzlich wird der Zugriff auf geschützte Systemverzeichnisse automatisch ermöglicht für Administratoren.
-Dieses Script ist auf ein deutsches System ausgerichtet und kann für die Verteilung via Matrix42 Intune etc verwendet wedrden.
+
+Dieses Script ist auf ein deutsches System ausgerichtet und kann für die Verteilung via Matrix42 Intune etc verwendet werden.
 
 ⚠️ Voraussetzungen
 Muss als Administrator ausgeführt werden.
